@@ -3,7 +3,7 @@ Keymap for the Microsoft Sculpt Ergonomic keyboard for macos
 
 ## Why / How
 
-The excellent Microsoft Sculpt keyboard isn't properly recognised on macos. I found the very helpful [Ukelele](https://software.sil.org/ukelele/) software that allows to create new keymap, and create a keymap for the UK version of the keyboard.
+The excellent Microsoft Sculpt keyboard isn't properly recognised on macos. I found the very helpful [Ukelele](https://software.sil.org/ukelele/) that allows to create new keymap, and created a keymap for the UK version of that keyboard.
 
 ## Installation
 
